@@ -1,4 +1,4 @@
-# portfolio-
+# portfolio
 Esse projeto é focado em criar um website para portfólio.
 O objetivo é praticar git enquanto construo esse projeto até o final. 
 ## Tarefas 
